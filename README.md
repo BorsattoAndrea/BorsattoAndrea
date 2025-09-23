@@ -31,7 +31,7 @@ Bot for automatic arbitrage leveraging DeFi applications on the Algorand blockch
 The bot searches for inefficiencies in the DeFi pools and swap assets only if it can generate a gain from the initial value of the assets.<br>
 Language: Python<br>
 <br>
-🔗 [GitHub Repo](sdfg)
+🔗 [GitHub Repo](https://github.com/BorsattoAndrea/Algorand_Trading_Bot/tree/master)
 
 
 ## 🛠️ Languages and Tools
