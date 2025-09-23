@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/BorsattoAndrea/count.svg" alt="Visitor's Count" />
+</div>
+
 <!--
 **BorsattoAndrea/BorsattoAndrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
