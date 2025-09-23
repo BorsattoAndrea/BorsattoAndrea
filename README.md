@@ -11,12 +11,14 @@
 💻 Also developing <a href="https://play.google.com/store/apps/details?id=com.scepapp.revzone&hl=it">RevZone</a> mobile app as personal project
 
 ## 📁 Projects
-### dgd
-
-fdgsd
-🔗 [GitHub Repo](sdfg)
+### RevZones
+My current personal project. I'm developing the full stack of the mobile application.<br>
+RevZone is a mobile application for car enthusiasts for finding all car events in your region of residence or in Italy.<br>
 
 🚀 [Live Demo](sdfg)
+
+### RevZones
+🔗 [GitHub Repo](sdfg)
 
 ## 🛠️ Languages and Tools
 
