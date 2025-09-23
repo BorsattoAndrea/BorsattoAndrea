@@ -7,11 +7,8 @@
 
 ### A software engineer passionate about Autonomous Driving and AI 
 
-
-
-
-
-
+👨‍💻 I’m currently working as Autonomous Driving Software Engineer for Politecnico di Milano<br>
+💻 Also developing <a href="https://play.google.com/store/apps/details?id=com.scepapp.revzone&hl=it">RevZone</a> mobile app as personal project
 
 ## 🛠️ Languages and Tools
 
