@@ -10,30 +10,22 @@
 👨‍💻 I’m currently working as Autonomous Driving Software Engineer for Politecnico di Milano<br>
 💻 Also developing <a href="https://play.google.com/store/apps/details?id=com.scepapp.revzone&hl=it">RevZone</a> mobile app as personal project
 
+## 📁 Projects
+### dgd
+
+fdgsd
+🔗 [GitHub Repo](sdfg)
+
+🚀 [Live Demo](sdfg)
+
 ## 🛠️ Languages and Tools
 
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ros,cpp,python,matlab,flutter,java,firebase,mysql" />
+  <img src="https://skillicons.dev/icons?i=ros,cpp,python,matlab,flutter,dart,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=gitlab,github,firebase" />
 </p>
 <hr>
 
-<a href="https://linkedin.com/in/BorsattoAndrea" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/BorsattoAndrea)
 
-
-<!--
-**BorsattoAndrea/BorsattoAndrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
