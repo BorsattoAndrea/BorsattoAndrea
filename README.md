@@ -21,7 +21,7 @@
 </p>
 <hr>
 
-<a href="https://linkedin.com/in/chijiokeokorji" target="_blank">
+<a href="https://linkedin.com/in/BorsattoAndrea" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 
