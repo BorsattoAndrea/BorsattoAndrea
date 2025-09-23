@@ -1,9 +1,27 @@
-## Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Andrea+Borsatto!;" />
+</h1>
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Andrea Borsatto/count.svg" alt="Visitor's Count" />
-</div>
+### A software engineer passionate about design and programming robotics software and AI 
+
+
+
+
+
+
+
+## 🛠️ Languages and Tools
+
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,matlab,flutter,java,firebase,mysql" />
+</p>
+<hr>
+
+<a href="https://linkedin.com/in/chijiokeokorji" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+
 
 <!--
 **BorsattoAndrea/BorsattoAndrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
