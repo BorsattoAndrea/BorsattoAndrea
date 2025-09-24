@@ -38,11 +38,12 @@ Language: Python<br>
 <br>
 🔗 [GitHub Repo](https://github.com/BorsattoAndrea/)
 
-### Plant Classification
+### Plant Recognition
 A university project for the course of Artificla Neural Networks and Deep Learning about classification of plants images using a Neural Network.<br>
 Language: Python<br>
 <br>
-🔗 [GitHub Repo](https://github.com/BorsattoAndrea/)
+🔗 [GitHub Repo](https://github.com/BorsattoAndrea/Plant-Recognition-With-CNN/)
+📰 [Project Report](https://github.com/BorsattoAndrea/Plant-Recognition-With-CNN/blob/main/Project%20Report.pdf)
 
 
 ## 🛠️ Languages and Tools
