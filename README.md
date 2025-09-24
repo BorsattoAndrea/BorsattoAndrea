@@ -1,6 +1,5 @@
 <img src="https://github.com/BorsattoAndrea/BorsattoAndrea/blob/main/my_desk_generated4.PNG" alt="Banner of a developer sitting in front of a desk">
 
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=35&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=5500&lines=+Hi,+I'm+Andrea+Borsatto!+👋;+Welcome+to+my+work+desk+🖥️;" />
 </h1>
@@ -13,29 +12,40 @@
 ## 📁 Projects
 
 ### High Performance Autonomous Driving 🏎️
-This is my curent work as part of Polimove Autonomous Racing Team
-I've worked on Lidar Localization of the car to allow localization in GPS-denied environments; and on the planning module to refactor its architecture.
-Language: C++ (ROS2)
-
+This is my curent work as part of Polimove Autonomous Racing Team.<br>
+I've worked on Lidar Localization of the car to allow localization in GPS-denied environments; and on the planning module to refactor its architecture.<br>
+Language: C++ (ROS2)<br>
+<br>
 🚀 [Live Demo](https://www.youtube.com/watch?v=P6161bfa-WY)
 
-### RevZones 📱
+### RevZone 📱
 My current personal project. I'm developing the full stack of the mobile application.<br>
-RevZone is a mobile application for car enthusiasts for finding all car events in their region of residence or in Italy.<br>
+RevZone is a mobile application designed for car enthusiasts to discover car events in their local area or anywhere across Italy.<br>
 Language: Flutter(Dart)<br>
 <br>
 🚀 [Live Demo](sdfg)
 
 ### Algorand Trading Bot 🪙
 Bot for automatic arbitrage leveraging DeFi applications on the Algorand blockchain.<br>
-The bot searches for inefficiencies in the DeFi pools and swap assets only if it can generate a gain from the initial value of the assets.<br>
+The bot searches for inefficiencies in the DeFi protocol's pools and swap assets only if it can generate a gain from the initial value of the assets.<br>
 Language: Python<br>
 <br>
 🔗 [GitHub Repo](https://github.com/BorsattoAndrea/Algorand_Trading_Bot/tree/master)
 
+### Song Genre Classification
+A university project for the course of Numerical Analysis for Machine Learning about classification of songs genre using a Neural Network.<br>
+Language: Python<br>
+<br>
+🔗 [GitHub Repo](https://github.com/BorsattoAndrea/)
+
+### Plant Classification
+A university project for the course of Artificla Neural Networks and Deep Learning about classification of plants images using a Neural Network.<br>
+Language: Python<br>
+<br>
+🔗 [GitHub Repo](https://github.com/BorsattoAndrea/)
+
 
 ## 🛠️ Languages and Tools
-
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ros,cpp,python,matlab,flutter,dart,java,mysql" /><br>
