@@ -32,14 +32,14 @@ Language: Python<br>
 <br>
 🔗 [GitHub Repo](https://github.com/BorsattoAndrea/Algorand_Trading_Bot/tree/master)
 
-### Song Genre Classification
+### Song Genre Classification 🎵
 A university project for the course of Numerical Analysis for Machine Learning about classification of songs genre using a Neural Network.<br>
 Language: Python<br>
 <br>
 🔗 [GitHub Repo](https://github.com/BorsattoAndrea/Song-Genre-Recognition-With-Neural-Network/)<br>
 📰[Project Report](https://github.com/BorsattoAndrea/Song-Genre-Recognition-With-Neural-Network/blob/main/Project%20Doc.pdf)
 
-### Plant Recognition
+### Plant Recognition 🍁
 A university project for the course of Artificla Neural Networks and Deep Learning about classification of plants images using a Neural Network.<br>
 Language: Python<br>
 <br>
