@@ -23,7 +23,7 @@ My current personal project. I'm developing the full stack of the mobile applica
 RevZone is a mobile application designed for car enthusiasts to discover car events in their local area or anywhere across Italy.<br>
 Language: Flutter(Dart)<br>
 <br>
-🚀 [Live Demo](sdfg)
+🚀 [Live Demo](https://github.com/user-attachments/assets/e6993f66-e0a7-4ba1-b3cc-13ae06e7d2d0)
 
 ### Algorand Trading Bot 🪙
 Bot for automatic arbitrage leveraging DeFi applications on the Algorand blockchain.<br>
