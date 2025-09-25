@@ -8,7 +8,8 @@
 
 👨‍💻 I’m currently working as Autonomous Driving Software Engineer for Politecnico di Milano<br>
 💻 Also developing <a href="https://play.google.com/store/apps/details?id=com.scepapp.revzone&hl=it">RevZone</a> mobile app as personal project
-
+<br>
+<br>
 ## 📁 Projects
 
 ### High Performance Autonomous Driving 🏎️
@@ -45,8 +46,8 @@ Language: Python<br>
 <br>
 🔗 [GitHub Repo](https://github.com/BorsattoAndrea/Plant-Recognition-With-CNN/)<br>
 📰 [Project Report](https://github.com/BorsattoAndrea/Plant-Recognition-With-CNN/blob/main/Project%20Report.pdf)
-
-
+<br>
+<br>
 ## 🛠️ Languages and Tools
 <br>
 <p align="center">
